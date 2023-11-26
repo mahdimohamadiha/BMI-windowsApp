@@ -1,0 +1,11 @@
+D:\.NET\Windows App\BMI-windowsApp\BMI\bin\Debug\BMI.exe.config
+D:\.NET\Windows App\BMI-windowsApp\BMI\bin\Debug\BMI.exe
+D:\.NET\Windows App\BMI-windowsApp\BMI\bin\Debug\BMI.pdb
+D:\.NET\Windows App\BMI-windowsApp\BMI\obj\Debug\BMI.csproj.AssemblyReference.cache
+D:\.NET\Windows App\BMI-windowsApp\BMI\obj\Debug\BMI.csproj.SuggestedBindingRedirects.cache
+D:\.NET\Windows App\BMI-windowsApp\BMI\obj\Debug\BMI.Form1.resources
+D:\.NET\Windows App\BMI-windowsApp\BMI\obj\Debug\BMI.Properties.Resources.resources
+D:\.NET\Windows App\BMI-windowsApp\BMI\obj\Debug\BMI.csproj.GenerateResource.cache
+D:\.NET\Windows App\BMI-windowsApp\BMI\obj\Debug\BMI.csproj.CoreCompileInputs.cache
+D:\.NET\Windows App\BMI-windowsApp\BMI\obj\Debug\BMI.exe
+D:\.NET\Windows App\BMI-windowsApp\BMI\obj\Debug\BMI.pdb
